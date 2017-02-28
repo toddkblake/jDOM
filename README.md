@@ -6,7 +6,7 @@ jDOM is a lightweight JavaScript library to manage DOM manipulation, AJAX reques
 
 ## Getting Started
 
-To get started using jDOM, download and unzip the `lib.zip` file and run the command `webpack lib/main.js jdom.js` in the terminal. Then, include the webpack output file `jdom.js` in your source code.
+To get started using jDOM, download and unzip the `lib.zip` file and run the command `webpack lib/core.js jdom.js` in the terminal. Then, include the webpack output file `jdom.js` in your source code.
 
 ## API
 
