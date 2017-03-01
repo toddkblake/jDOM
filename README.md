@@ -28,6 +28,7 @@ To get started using jDOM, download and unzip the `lib.zip` file and run the com
 - [`parent()`](#parent)
 - [`remove()`](#remove)
 - [`removeClass()`](#removeclass)
+- [`val()`](#val)
 
 [Event Handlers](#event-handlers)
 
@@ -132,6 +133,10 @@ Removes each `HTMLElement` in the `DOMNodeCollection` from the DOM.
 ### `removeClass()`
 
 Takes in a CSS class string and removes it from each `HTMLElement` in the `DOMNodeCollection`.
+
+### `val()`
+
+If given no arguments, returns the value of the first `HTMLElement` in the `DOMNodeCollection`. If given a string argument, it sets the value of all `HTMLElements` in the `DOMNodeCollection`.
 
 ## Event Handlers
 
