@@ -2,7 +2,7 @@
 
 jDOM is a lightweight JavaScript library to manage DOM manipulation, AJAX requests and event handling using the native DOM API. It is inspired by the jQuery library.
 
-[Demo](#)
+[Gifstagram Demo](http://toddkblake.com/Gifstagram/)
 
 ## Getting Started
 
