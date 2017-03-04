@@ -2,6 +2,10 @@
 
 jDOM is a lightweight JavaScript library to manage DOM manipulation, AJAX requests and event handling using the native DOM API. It is inspired by the jQuery library.
 
+## Demo
+
+For a live demo of jDOM in action, checkout Gifstagram, a single page gif exploration app inspired by Instagram. Gifstagram relies solely on jDOM for all interactivity, including making AJAX requests to the Giphy API, a search bar, toggling likes and building post elements dynamically and appending them to the DOM.
+
 [Gifstagram Demo](http://toddkblake.com/Gifstagram/)
 
 ## Getting Started
